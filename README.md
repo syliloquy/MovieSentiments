@@ -5,7 +5,7 @@ Interactive dashboard that links TMDB movie keyword-derived sentiment to box off
 ## Data
 Place the following files in the repo root before running:
 
--`tmdb_movie_enriched_scl_aggregate.csv`
+- `tmdb_movie_enriched_scl_aggregate.csv`
 - `tmdb_movie_keyword_pairs_scl_enriched.csv`
 
 ## Run
